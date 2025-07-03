@@ -61,4 +61,8 @@ npx hardhat run scripts/verify_credentials.js --network sepolia
 
 npx hardhat test test/G9Token.test.js       # Basic ERC20 + Multi-sig
 npx hardhat test test/G9TokenReentrancy.test.js # Security
+<<<<<<< HEAD
 npx hardhat test test/UBaEducationCredentialsStore.test.js # Credential logic
+=======
+npx hardhat test test/UBaEducationCredentialsStore.test.js # Credential logic
+>>>>>>> cd9f06f0101c89582c3510d6e6e05b2c4b837e74
